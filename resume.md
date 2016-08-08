@@ -40,7 +40,7 @@ Software Engineering
 
 ## Experience
 
-* 2015/2016 - **Ruby on Rails Developer **
+* 2015/2016 - **Ruby on Rails Developer**
 > Ruby on Rails Developer in Noosfero project.
 > Working as a Rails Developer and using Agile methodologies. In this position I have the following responsibilities:
 >
@@ -54,7 +54,7 @@ Software Engineering
 >
 > 5 - Improves in restful API.
 
-* 2015 - **Google Summer of Code **
+* 2015 - **Google Summer of Code**
 >Organization: Debian Project
 >
 Assigned mentors: Antonio Terceiro
@@ -63,7 +63,7 @@ Assigned mentors: Antonio Terceiro
 >
 >https://www.google-melange.com/gsoc/project/details/google/gsoc2015/thiagovsk/5757334940811264
 
-* 2014 - **Django Developer **
+* 2014 - **Django Developer**
 >Django developer in Colab: https://github.com/colab/colab
 >
 >Working as a Djagon Developer and using Agile methodologies. In this position I have the following responsibilities:
@@ -76,7 +76,7 @@ Assigned mentors: Antonio Terceiro
 
 
 
-* 2013 - **Ruby on Rails Developer **
+* 2013 - **Ruby on Rails Developer**
 > Ruby on Rails Developer in SRA project.
 > Working as a Rails Developer and using Agile methodologies. In this position I have the following responsibilities:
 >
@@ -96,19 +96,19 @@ Assigned mentors: Antonio Terceiro
 
 ### Open source contributions
 
-* **Mezuro Project **
+* **Mezuro Project**
 >Improvments in web application (tests,refactor,new feature), and cookbook to create development environment.
 >  https://github.com/mezuro/prezento/commits?author=thiagovsk
 >
 https://github.com/thiagovsk/mezuro-cookbooks
 
-* ** Django Reverseproxy **
+* ** Django Reverseproxy**
 >HTTP parser to support multiple cookies.
 >
 https://github.com/thiagovsk/django-revproxy/commit/3816a787107f87056ca08e2f9826edfee8f883db
 >
 
-* ** omniauth_remote_user **
+* ** omniauth_remote_user**
 > My participation was to develop the application, wich is a omniauth strategy to
 login with httpreader http_remote_user. 
 >  https://github.com/mezuro/prezento/commits?author=thiagovsk
@@ -127,7 +127,7 @@ https://github.com/thiagovsk/mezuro-cookbooks
 
 * **Agile brazil 2014** - http://www.agilebrazil.com
 
-* **Congresso Brasileiro de Engenharia de software - CBSOFT ** - http://cbsoft.org/cbsoft2016/
+* **Congresso Brasileiro de Engenharia de software - CBSOFT** - http://cbsoft.org/cbsoft2016/
 
 ---
 
