@@ -94,6 +94,29 @@ Assigned mentors: Antonio Terceiro
 
 ---
 
+### Open source contributions
+
+* **Mezuro Project **
+>Improvments in web application (tests,refactor,new feature), and cookbook to create development environment.
+>  https://github.com/mezuro/prezento/commits?author=thiagovsk
+>
+https://github.com/thiagovsk/mezuro-cookbooks
+
+* ** Django Reverseproxy **
+>HTTP parser to support multiple cookies.
+>
+https://github.com/thiagovsk/django-revproxy/commit/3816a787107f87056ca08e2f9826edfee8f883db
+>
+
+* ** omniauth_remote_user **
+> My participation was to develop the application, wich is a omniauth strategy to
+login with httpreader http_remote_user. 
+>  https://github.com/mezuro/prezento/commits?author=thiagovsk
+>
+https://github.com/thiagovsk/mezuro-cookbooks
+
+---
+
 ### Volunteer
 
 * **Debian Ruby Team** - https://qa.debian.org/developer.php?login=thiago@pencillabs.com
