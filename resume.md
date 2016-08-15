@@ -108,14 +108,14 @@ Assigned mentors: Antonio Terceiro
 >
 https://github.com/thiagovsk/mezuro-cookbooks
 
-* ** Django Reverseproxy**
+* **Django Reverseproxy**
 >
 >HTTP parser to support multiple cookies.
 >
 https://github.com/thiagovsk/django-revproxy/commit/3816a787107f87056ca08e2f9826edfee8f883db
 >
 
-* ** omniauth_remote_user**
+* **omniauth_remote_user**
 >
 > My participation was to develop the application, wich is a omniauth strategy to
 login with httpreader http_remote_user. 
