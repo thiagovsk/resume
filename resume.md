@@ -2,7 +2,6 @@
 Software Engineering
 
 ---
-#### Full Stack Developer
 **E-mail:** thiagitosouza@gmail.com
 
 **Linkedin:** [https://www.linkedin.com/in/thiagovsk](https://www.linkedin.com/in/thiagovsk)
