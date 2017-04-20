@@ -28,17 +28,33 @@ Software Engineering
 * Linux
 * Rest API
 * TDD
+* AWS EBS/EC2/RDS
 
 **FrontEnd:**
 * HTML5/CSS3
 * Sass
 * Bootstrap/Material Desgin
 * Responsive Design
-* Javascript + Polymer (learning)
+* Javascript
+* ReactJs
+* AngularJs
 
 ---
 
 ## Experience
+* 2016-2017 (current) - **Ruby on Rails Developer**
+> Ruby on Rails Developer at PDVEND
+> Working as a Rails Developer and using Agile methodologies. In this position I have the following responsibilities:
+>
+> 1 - Gather requirements for the website.
+>
+> 2 - Address the modifications needed on the PDVend platform.
+>
+> 3 - Develop features for the website.
+>
+> 4 - Create tests using Rspec, Cucumber and Capybara.
+>
+> 5 - Improves in restful API.
 
 * 2015/2016 - **Ruby on Rails Developer**
 > Ruby on Rails Developer in Noosfero project.
