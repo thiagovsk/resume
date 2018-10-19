@@ -9,7 +9,7 @@ Software Engineering
 
 **Github:** thiagovsk
 
-**Blog:** http://thiagovsk.github.io/ (In progress)
+**Blog:** https://medium.com/@thiagoribeirof
 
 ---
 
