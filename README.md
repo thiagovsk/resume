@@ -42,7 +42,38 @@ Software Engineering
 ---
 
 ## Experience
-* 2016-2017 (current) - **Ruby on Rails Developer**
+
+* Dez 2019 – Current - **Senior Ruby on Rails Developer**
+>Working as a Full Stack developer (Rails), and using Agile methodologies. In this position I have the following >responsibilities:
+>
+>1 - Gather requirements for the website.
+>
+>2 - Develop features for the website.
+>
+>3 - Create tests using Rspec, Cucumber and Capybara.
+>
+>4 - Improves in restful API and external API integrations
+>
+>5- Improves UI
+>
+>6- Devops with AWS, Heroku, CI with semaphoreCI.
+
+* Mar 2019 – Dez 2019 - **Ruby on Rails Developer**
+>Working as a Full Stack developer (Rails and ReactJs), and using Agile methodologies. In this position I have the following >responsibilities:
+>
+>1 - Gather requirements for the website.
+>
+>2 - Develop features for the website.
+>
+>3 - Create tests using Rspec, Cucumber and Capybara.
+>
+>4 - Improves in restful API.
+>
+>5- Improves UI, with ReactJs
+>
+>6- Devops with AWS, Heroku, CI with semaphoreCI.
+
+* Nov 2016 – Mar 2019 - **Ruby on Rails Developer**
 > Ruby on Rails Developer at PDVEND
 > Working as a Rails Developer and using Agile methodologies. In this position I have the following responsibilities:
 >
